@@ -36,3 +36,72 @@ transition: all 0.3s;
   transform: scale(1.15);
   text-decoration: black;
 }
+
+.colorfondosectionorganiza {
+  background-color: rgb(214, 214, 214);
+}
+
+.hoverlogos {
+  transition: all 0.3s;
+}
+
+.hoverlogos:hover{
+  transform: scale(1.15);
+  -webkit-transform: rotate(10deg) scale(1.15);
+}
+
+.piazaFiat {
+  background-image: url(/Images/sorteoauto.png);
+  width: 100%;
+  height: 530px;
+  background-size: cover;
+}
+
+@media (max-width: 500px) 
+{
+  .piazaFiat {
+    background-image: url(/Images/sorteoauto-celular.png);
+    width: 100%;
+    height: 350px;
+  } 
+}
+
+/* .holacomodando {
+  padding-left: 230px;
+  padding-top: 400px;
+} */
+
+.autodefrente {
+  padding-left: 150px;
+  padding-top: 230px;
+  padding-bottom: 30px;
+  transition: all 0.3s;
+}
+
+.autocostado {
+  padding-left: 0px;
+  padding-top: 250px;
+  padding-bottom: 30px;
+  transition: all 0.3s;
+}
+
+.autodefrente:hover {
+  transform: scale(1.10);
+}
+
+.autocostado:hover {
+  transform: scale(1.10);
+}
+
+.logonavbar {
+  height: 70px;
+}
+
+.colorfooter {
+  background-color: rgb(173, 173, 173);
+}
+
+.iconsredsocial {
+  font-size: 50px;
+  color: black;
+}
