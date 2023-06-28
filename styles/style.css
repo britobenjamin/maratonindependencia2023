@@ -1,0 +1,38 @@
+* {
+  font-family: 'Anton', sans-serif;
+}
+
+#fondo-prueba {
+  /* background-image: url(/Images/bg-image.jpg); */
+  background: linear-gradient(rgba(5, 7, 12, 0.75), rgba(5, 7, 12, 0.75)), url(/Images/bg-image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text-km {
+font-size: 100px;
+transition: all 0.3s;
+}
+
+.text-km-p {
+  font-size: 40px;
+  transition: all 0.3s;
+
+  }
+
+.text-km:hover {
+  transform: scale(1.15);
+}
+
+.text-km-p:hover {
+  transform: scale(1.15);
+}
+
+.hoveremblematicos {
+  transition: all 0.3s;
+}
+
+.hoveremblematicos:hover{
+  transform: scale(1.15);
+  text-decoration: black;
+}
