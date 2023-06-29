@@ -105,3 +105,19 @@ transition: all 0.3s;
   font-size: 50px;
   color: black;
 }
+
+.logopublicidad {
+  transition: all 0.3s;
+}
+
+.logopublicidad:hover {
+  transform: scale(2.00);
+}
+
+.cardsremerahover {
+  transition: all 0.3s;
+}
+
+.cardsremerahover:hover {
+  transform: scale(1.1);
+}
