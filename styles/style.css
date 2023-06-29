@@ -125,3 +125,7 @@ transition: all 0.3s;
 .mapitagoogle {
   height: 500px;
 }
+
+.hoverclickmaps:hover {
+  color: brown;
+}
