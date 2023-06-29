@@ -121,3 +121,7 @@ transition: all 0.3s;
 .cardsremerahover:hover {
   transform: scale(1.1);
 }
+
+.mapitagoogle {
+  height: 500px;
+}
