@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nombre": "prueba",
+      "apellido": "prueba",
+      "edad": 24,
+      "numeroDocumento": 41772470,
+      "numeroCelular": 3815376191,
+      "mail": "prueba1@gmail.com"
+    },
+    {
+      "id": 2,
+      "nombre": "zzzzzzzzzzz",
+      "apellido": "zzzzzzzzzzzzz",
+      "edad": "44444444444444",
+      "numeroDocumento": "4444444444444444",
+      "numeroCelular": "4444444444444444",
+      "mail": "zzzzzzzzzzzzzzz@gmail.com"
+    },
+    {
+      "id": 3,
+      "nombre": "aaaaaaaaaaaaaaaa",
+      "apellido": "aaaaaaaaaaaaaa",
+      "edad": "111111111111111111",
+      "numeroDocumento": "11111111111111111",
+      "numeroCelular": "11111111111111111111111",
+      "mail": "aaaaaaaaaaaaaaaaaz@gmail.com"
+    }
+  ]
+}
